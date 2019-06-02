@@ -1,4 +1,4 @@
-package com.waston.niuke;
+package com.waston.NowCode;
 
 import java.util.Scanner;
 
