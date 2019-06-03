@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestClassNull.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/waston/base/TestClassNull.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TryCatchFinally.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/waston/base/TryCatchFinally.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,11 +38,8 @@
       <file leaf-file-name="EqualsTrue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/waston/base/EqualsTrue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="230">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="e#191#304#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -92,24 +80,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ByteAdd.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ByteAdd.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/waston/base/ByteAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBufferOperator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/waston/base/StringBufferOperator.java">
+      <file leaf-file-name="OutInFor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/waston/base/OutInFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="92">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Complicatedexpression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/waston/base/Complicatedexpression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -144,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/com/waston/base/GetCustomerInfo.java" />
         <option value="$PROJECT_DIR$/src/com/waston/base/ByteAndAdd.java" />
         <option value="$PROJECT_DIR$/src/com/waston/base/ByteAdd.java" />
+        <option value="$PROJECT_DIR$/src/com/waston/base/Complicatedexpression.java" />
+        <option value="$PROJECT_DIR$/src/com/waston/base/OutInFor.java" />
       </list>
     </option>
   </component>
@@ -156,8 +151,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="274" />
+    <option name="y" value="5" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -231,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ByteAdd">
+  <component name="RunManager" selected="Application.OutInFor">
     <configuration name="ByteAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waston.base.ByteAdd" />
       <module name="Base" />
@@ -243,8 +239,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringBufferOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waston.base.StringBufferOperator" />
+    <configuration name="Complicatedexpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waston.base.Complicatedexpression" />
+      <module name="Base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waston.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="OutInFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waston.base.OutInFor" />
       <module name="Base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -256,17 +263,6 @@
     </configuration>
     <configuration name="Switch123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.waston.base.Switch123" />
-      <module name="Base" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.waston.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waston.base.TestHashMap" />
       <module name="Base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -329,19 +325,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringBufferOperator" />
-      <item itemvalue="Application.TestHashMap" />
       <item itemvalue="Application.ThreadAndMain" />
       <item itemvalue="Application.Switch123" />
       <item itemvalue="Application.ByteAdd" />
+      <item itemvalue="Application.Complicatedexpression" />
+      <item itemvalue="Application.OutInFor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutInFor" />
+        <item itemvalue="Application.Complicatedexpression" />
         <item itemvalue="Application.ByteAdd" />
         <item itemvalue="Application.Switch123" />
         <item itemvalue="Application.ThreadAndMain" />
-        <item itemvalue="Application.TestHashMap" />
-        <item itemvalue="Application.StringBufferOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +358,13 @@
       <workItem from="1559222698608" duration="2094000" />
       <workItem from="1559299364971" duration="222000" />
       <workItem from="1559399415256" duration="1696000" />
-      <workItem from="1559489327570" duration="1442000" />
+      <workItem from="1559489327570" duration="2115000" />
+      <workItem from="1559568561098" duration="2673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13916000" />
+    <option name="totallyTimeSpent" value="17262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -375,25 +372,26 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.34861407" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3315565" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3315565" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24076608" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23987207" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32985386" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,7 +399,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.34861407" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,18 +581,6 @@
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/waston/base/ByteAdd.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/waston/base/ByteAdd.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/waston/base/ExtendAndTryCatch.java</url>
           <line>13</line>
@@ -613,20 +598,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/waston/base/TestClassNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/waston/base/StringAndChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/waston/base/StaticArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -918,11 +889,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/waston/base/BaseAndDeirved.java" />
     <entry file="file://$PROJECT_DIR$/src/com/waston/base/EqualsTrue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="230">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#191#304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -954,14 +922,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/waston/base/Complicatedexpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/waston/base/ByteAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/waston/base/OutInFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
