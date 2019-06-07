@@ -15,6 +15,8 @@ import java.util.Scanner;
  * 3 9 3 2 5 6 7 3 2 3 3 3
  * 输出
  * 3
+ *
+ * 答案有问题，不存在时也会输出一个数！
  * @Author: Waston
  * @Date: 2019/6/2 0:26
  */

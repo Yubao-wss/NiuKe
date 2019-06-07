@@ -42,8 +42,8 @@
       <file leaf-file-name="BiggerThanHalfOfCount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/waston/NowCode/BiggerThanHalfOfCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="138">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -146,10 +146,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="width" value="975" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -159,6 +159,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,8 +198,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -221,14 +221,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculatorCandy">
-    <configuration name="AntiOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.waston.niuke.AntiOrder" />
+  <component name="RunManager" selected="Application.BiggerThanHalfOfCount">
+    <configuration name="BiggerThanHalfOfCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.waston.NowCode.BiggerThanHalfOfCount" />
       <module name="NiuKe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.waston.niuke.*" />
+          <option name="PATTERN" value="com.waston.NowCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,19 +319,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AntiOrder" />
       <item itemvalue="Application.BuyApple" />
       <item itemvalue="Application.RemovePublicStr" />
       <item itemvalue="Application.MagicalPocket" />
       <item itemvalue="Application.CalculatorCandy" />
+      <item itemvalue="Application.BiggerThanHalfOfCount" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BiggerThanHalfOfCount" />
         <item itemvalue="Application.CalculatorCandy" />
         <item itemvalue="Application.MagicalPocket" />
         <item itemvalue="Application.RemovePublicStr" />
         <item itemvalue="Application.BuyApple" />
-        <item itemvalue="Application.AntiOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -356,15 +356,17 @@
       <workItem from="1559299351135" duration="4787000" />
       <workItem from="1559364226607" duration="13642000" />
       <workItem from="1559437909282" duration="45000" />
-      <workItem from="1559746315558" duration="2661000" />
+      <workItem from="1559746315558" duration="6041000" />
+      <workItem from="1559787274146" duration="3000" />
+      <workItem from="1559819477405" duration="183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44545000" />
+    <option name="totallyTimeSpent" value="48111000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="11" y="0" width="780" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -375,19 +377,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22091782" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22091782" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.042797495" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31462142" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39487725" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39487725" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" />
@@ -405,7 +407,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/waston/NowCode/BiggerThanHalfOfCount.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/waston/NowCode/BiggerThanHalfOfCount.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/waston/NowCode/BiggerThanHalfOfCount.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -629,8 +651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/waston/NowCode/BiggerThanHalfOfCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="138">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
